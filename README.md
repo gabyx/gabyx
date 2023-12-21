@@ -11,6 +11,12 @@
   **[astronvim](https://github.com/gabyx/astronvim)**: My config files for my
   programming setup and NixOS configuration.
 
+## C++
+
+- **[ExecutionGraph](https://github.com/gabyx/ExecutionGraph)**: Execution graph
+  with a GUI frontend. Unfortunately unfinished and not maintained anymore. It
+  was more a study framework than a serious project.
+
 ## Language Learning
 
 - **[RsFluid](https://github.com/gabyx/RsFluid)**: Rust learning project
