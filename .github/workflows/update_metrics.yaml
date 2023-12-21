@@ -39,7 +39,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: javascript,css,scss
+          plugin_languages_ignored: javascript,css,scss,jupyter-notebook
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -58,4 +58,4 @@ jobs:
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-recent
-          plugin_stackoverflow_user: 1194456
+          plugin_stackoverflow_user: 293195
