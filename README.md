@@ -27,8 +27,9 @@
 - **[TechnicalMarkdown](https://github.com/gabyx/TechnicalMarkdown)**: Pandoc
   tooling framework to generate technical documentation and even whole theses.
 
-- **[TechnicalPresentation](https://github.com/gabyx/TechnicalMarkdown)**: Fork
-  of `reveal.js` fork with tooling to generate presentations in HTML/PDF output.
+- **[TechnicalPresentation](https://github.com/gabyx/TechnicalPresentation)**:
+  Fork of `reveal.js` fork with tooling to generate presentations in HTML/PDF
+  output.
 
 ## Numerics
 
