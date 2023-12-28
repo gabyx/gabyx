@@ -17,6 +17,8 @@
   with a GUI frontend. Unfortunately unfinished and not maintained anymore. It
   was more a study framework than a serious project.
 
+- [Presentation on Value-Categories in C++](https://github.com/gabyx/tech-pr-cpp-value-catergories).
+
 ## Language Learning
 
 - **[RsFluid](https://github.com/gabyx/RsFluid)**: Rust learning project
@@ -25,11 +27,14 @@
 ## Markdown
 
 - **[Technical-Markdown](https://github.com/gabyx/Technical-Markdown)**: Pandoc
-  tooling framework to generate technical documentation and even whole theses.
+  tooling framework to generate technical documentation and even whole theses
+  ([[PDF]](https://github.com/gabyx/technical-markdown-demo/blob/main/docs/output/thesis/Content.pdf),
+  [[HTML]](https://gabyx.github.io/technical-markdown-demo/docs/html-package/thesis/Content.html)).
 
 - **[Technical-Presentation](https://github.com/gabyx/Technical-Presentation)**:
   Fork of `reveal.js` fork with tooling to generate presentations in HTML/PDF
-  output.
+  output. See
+  [presentation](https://github.com/gabyx/tech-pr-cpp-value-catergories).
 
 ## Numerics
 
