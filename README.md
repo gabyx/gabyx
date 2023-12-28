@@ -34,7 +34,8 @@
 - **[Technical-Presentation](https://github.com/gabyx/Technical-Presentation)**:
   Fork of `reveal.js` fork with tooling to generate presentations in HTML/PDF
   output. See
-  [presentation](https://github.com/gabyx/tech-pr-cpp-value-catergories).
+  [demo presentation](https://gabyx.github.io/Technical-Presentation) and
+  [C++ presentation](https://github.com/gabyx/tech-pr-cpp-value-catergories).
 
 ## Numerics
 
