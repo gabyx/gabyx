@@ -23,11 +23,16 @@
 
 - **[RsFluid](https://github.com/gabyx/RsFluid)**: Rust learning project
   implementing a fluid simulation.
-  
-- **[Markdown2PDF](https://github.com/gabyx/markdown-to-pdf-service)**: Rust learning project
-  implementing a full-stack microservice (kubernetes) architectured web-app which converts Markdown files/projects
-  into PDF in the backend, using all best tools available so far in 2024.
-  
+
+- **[Markdown2PDF](https://github.com/gabyx/markdown-to-pdf-service)**: Rust
+  learning project implementing a full-stack micro-service (kubernetes)
+  architectured web-app which converts Markdown files/projects into PDF in the
+  backend, using all best tools available so far in 2024.
+
+- **[Ki-Kist](https://github.com/gabyx/ki-kist)**: Rust learning project
+  implementing a REST client & server architecture (kubernetes) to store
+  asymmetric encryption keys for signing documents.
+
 ## Markdown
 
 - **[Technical-Markdown](https://github.com/gabyx/Technical-Markdown)**: Pandoc
