@@ -33,6 +33,11 @@
   implementing a REST client & server architecture (kubernetes) to store
   asymmetric encryption keys for signing documents.
 
+## Build-Systems
+
+- **[RsBuckPlayground](https://github.com/gabyx/rs-buck-playground)**: Building a Rust project with Buck2.
+  Nix acts as a toolchain provider before `buck` is involved.
+
 ## Markdown
 
 - **[Technical-Markdown](https://github.com/gabyx/Technical-Markdown)**: Pandoc
