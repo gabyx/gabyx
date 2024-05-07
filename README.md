@@ -5,6 +5,9 @@
 - **[Githooks](https://github.com/gabyx/Githooks)**: 🦎 Githooks: per-repo and
   shared Git hooks with version control and auto - update.
 
+- **[Vim Motions In A Nutshell](https://github.com/gabyx/vim-motions-in-a-nutshell)**:
+    What you really need to know when learning Vim motions.
+
 ## Configuration
 
 - **[dotfiles](https://github.com/gabyx/dotfiles)**,
