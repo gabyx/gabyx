@@ -6,13 +6,21 @@
   shared Git hooks with version control and auto - update.
 
 - **[Vim Motions In A Nutshell](https://github.com/gabyx/vim-motions-in-a-nutshell)**:
-    What you really need to know when learning Vim motions.
+  What you really need to know when learning Vim motions.
 
 ## Configuration
 
 - **[dotfiles](https://github.com/gabyx/dotfiles)**,
   **[astronvim](https://github.com/gabyx/astronvim)**: My config files for my
   programming setup and NixOS configuration.
+
+## Rust
+
+- **[Rust Workshop](https://sdsc-ordes.github.io/technical-presentation/gh-pages/rust-workshop/#/title-slide)**:
+  A 4 days workshop in 2024 about learning the latest basic foundation of the
+  Rust programming language (with small focus on coming from python).
+
+  - [Workshop Exercises](https://github.com/sdsc-ordes/rust-workshop)
 
 ## C++
 
@@ -38,8 +46,9 @@
 
 ## Build-Systems
 
-- **[RsBuckPlayground](https://github.com/gabyx/rs-buck-playground)**: Building a Rust project with Buck2.
-  Nix acts as a toolchain provider before `buck` is involved.
+- **[RsBuckPlayground](https://github.com/gabyx/rs-buck-playground)**: Building
+  a Rust project with Buck2. Nix acts as a toolchain provider before `buck` is
+  involved.
 
 ## Markdown
 
