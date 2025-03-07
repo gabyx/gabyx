@@ -16,7 +16,7 @@
 
 ## Rust
 
-- **[Rust Workshop](https://sdsc-ordes.github.io/technical-presentation/gh-pages/rust-workshop/#/title-slide)**:
+- **[Rust Workshop](https://sdsc-ordes.github.io/technical-presentation/gh-pages/rust-workshop/part-1)**:
   A 4 days workshop in 2024 about learning the latest basic foundation of the
   Rust programming language (with small focus on coming from python).
 
