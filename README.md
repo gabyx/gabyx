@@ -8,19 +8,29 @@
 - **[Vim Motions In A Nutshell](https://github.com/gabyx/vim-motions-in-a-nutshell)**:
   What you really need to know when learning Vim motions.
 
+- **[Best Practices at SDSC](https://swissdatasciencecenter.github.io/best-practice-documentation/)**:
+  Contributions to developer enablement, development practices, documentation
+  tooling and CI setup.
+
 ## Configuration
 
 - **[dotfiles](https://github.com/gabyx/dotfiles)**,
   **[astronvim](https://github.com/gabyx/astronvim)**: My config files for my
   programming setup and NixOS configuration.
 
+- [**NixOS Workshop**](https://github.com/sdsc-ordes/nixos-workshop): A small
+  workshop aiming to get you started with a modern flake-based NixOS
+  configuration setup, exploring NixOS in a VM and deploying it.
+
 ## Rust
 
-- **[Rust Workshop](https://sdsc-ordes.github.io/technical-presentation/gh-pages/rust-workshop/part-1)**:
+- **[Rust Workshop: Part 1](https://sdsc-ordes.github.io/technical-presentation/gh-pages/rust-workshop/part-1)**:
   A 4 days workshop in 2024 about learning the latest basic foundation of the
   Rust programming language (with small focus on coming from python).
 
   - [Workshop Exercises](https://github.com/sdsc-ordes/rust-workshop)
+
+- **[Rust Workshop: Part 2](https://sdsc-ordes.github.io/technical-presentation/gh-pages/rust-workshop/part-2)**
 
 ## C++
 
@@ -45,6 +55,10 @@
   asymmetric encryption keys for signing documents.
 
 ## Build-Systems
+
+- **[Quitsh](https://github.com/sdsc-ordes/quitsh)**: A component-based build
+  tool which aims at treating build tooling code as normal code with typed,
+  fast-compilable language `go`.
 
 - **[RsBuckPlayground](https://github.com/gabyx/rs-buck-playground)**: Building
   a Rust project with Buck2. Nix acts as a toolchain provider before `buck` is
