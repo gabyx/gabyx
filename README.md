@@ -1,4 +1,19 @@
-# My Projects
+# About Me
+
+I'm a mechanical engineer turned Senior Software Engineer, focused on Linux. I
+have many years of experience in C++ and Go, a growing command of Rust, and a
+strong background in build systems, CI/CD, infrastructure, engineering best
+practices, and developer enablement.
+
+Nix is at the heart of it all. I've used Nix and NixOS for years, and today it's
+an essential part of everything I build. If you're trying to bring Nix into your
+company, I'd be happy to help, so feel free to reach out.
+
+I believe infrastructure, build, and tooling code deserve the same care as
+product code. If you think so too, we probably have a lot to talk about.
+Strongly typed languages only + single-layer of abstraction at the heart.
+
+# Projects
 
 ## Git & Best Practices
 
@@ -12,22 +27,24 @@
   Contributions to developer enablement, development practices, documentation
   tooling and CI setup.
 
+## Nix
+
+- [**Nix Workshop**](): A small workshop aiming to get you started with a modern
+  flake-based Nix configuration setup, exploring Nix, Flakes, NixOS.
+
 ## Configuration
 
-- **[dotfiles](https://github.com/gabyx/dotfiles)**,
-  **[astronvim](https://github.com/gabyx/astronvim)**: My config files for my
-  programming setup and NixOS configuration.
+- **[dotfiles](https://github.com/gabyx/dotfiles)**: My NixOS setup and
+  infrastructure.
 
-- [**NixOS Workshop**](https://github.com/sdsc-ordes/nixos-workshop): A small
-  workshop aiming to get you started with a modern flake-based NixOS
-  configuration setup, exploring NixOS in a VM and deploying it.
+- **[nvim](https://github.com/gabyx/dotfiles/tree/main/nix/pkgs/nvim-nvf)**: My
+  nvim configuration for my programming setup.
 
 ## Rust
 
 - **[Rust Workshop: Part 1](https://sdsc-ordes.github.io/technical-presentation/gh-pages/rust-workshop/part-1)**:
   A 4 days workshop in 2024 about learning the latest basic foundation of the
   Rust programming language (with small focus on coming from python).
-
   - [Workshop Exercises](https://github.com/sdsc-ordes/rust-workshop)
 
 - **[Rust Workshop: Part 2](https://sdsc-ordes.github.io/technical-presentation/gh-pages/rust-workshop/part-2)**
