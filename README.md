@@ -27,6 +27,13 @@ Strongly typed languages only + single-layer of abstraction at the heart.
   Contributions to developer enablement, development practices, documentation
   tooling and CI setup.
 
+## Linux
+
+- [NAT Traversal Exercises](https://github.com/gabyx/nat-traversal): The nice
+  article from [Tailscale](https://tailscale.com/blog/how-nat-traversal-works)
+  intrigued me into wondering if I can test that with some Rust code + NixOS VM
+  tests to simulate such NAT Traversal. 🐙
+
 ## Nix
 
 - [**Nix Workshop**](): A small workshop aiming to get you started with a modern
